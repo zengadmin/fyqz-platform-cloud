@@ -1,7 +1,8 @@
 package com.fyqz.controller;
 
-import com.fyqz.dto.Person;
-import com.fyqz.dto.User;
+
+import com.fyqz.model.Person;
+import com.fyqz.model.User;
 import org.apache.commons.lang.math.RandomUtils;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
